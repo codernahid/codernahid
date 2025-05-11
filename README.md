@@ -33,7 +33,6 @@ Welcome to my GitHub! I’m a passionate student from Bangladesh preparing for u
 
 ## Personal Goals
 
-- **Military Ambition**: Preparing for the 95th BMA Long Course, BAFA 92nd Course, and ISSB.
 - **Faith & Values**: A devoted Muslim aiming to live by Islamic principles in every aspect of life.
 - **Motivation**: Believes true success lies in seeking Allah’s pleasure and striving for Jannah.
 
